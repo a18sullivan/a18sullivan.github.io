@@ -1,0 +1,22 @@
+<img src="[Untitled]" width="320" height="180" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:Alex -->
+<area shape="rect" coords="9,59,52,144" href="catLoader.mp3" />
+<area shape="rect" coords="59,75,84,123" href="wacker.mp3" />
+<area shape="rect" coords="90,77,111,118" href="holder.mp3" />
+<area shape="rect" coords="117,78,136,117" href="holder.mp3" />
+<area shape="rect" coords="183,72,196,110" href="holder.mp3" />
+<area shape="rect" coords="200,73,223,124" href="wacker.mp3" />
+<area shape="rect" coords="230,71,258,136" href="backhoe.mp3" />
+<area shape="rect" coords="140,75,160,110" href="MLH.mp3" />
+<area shape="rect" coords="271,77,312,166" href="volvoLoader.mp3" />
+<area shape="rect" coords="163,70,178,110" href="Oliver.mp3" />
+<area shape="rect" coords="33,3,109,34" href="mixingShed.mp3" />
+<area shape="rect" coords="112,5,316,56" href="saltShed.mp3" />
+<area shape="rect" coords="55,50,97,70" href="saltRamp.mp3" />
+</map>
